@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-cooking-app/static/css/main.ee169e70.chunk.css",
+    "main.js": "/react-cooking-app/static/js/main.d3f0758b.chunk.js",
+    "main.js.map": "/react-cooking-app/static/js/main.d3f0758b.chunk.js.map",
+    "runtime-main.js": "/react-cooking-app/static/js/runtime-main.24e9daac.js",
+    "runtime-main.js.map": "/react-cooking-app/static/js/runtime-main.24e9daac.js.map",
+    "static/js/2.d9eb3301.chunk.js": "/react-cooking-app/static/js/2.d9eb3301.chunk.js",
+    "static/js/2.d9eb3301.chunk.js.map": "/react-cooking-app/static/js/2.d9eb3301.chunk.js.map",
+    "index.html": "/react-cooking-app/index.html",
+    "precache-manifest.9395321ee3f088f6133bc8502274e771.js": "/react-cooking-app/precache-manifest.9395321ee3f088f6133bc8502274e771.js",
+    "service-worker.js": "/react-cooking-app/service-worker.js",
+    "static/css/main.ee169e70.chunk.css.map": "/react-cooking-app/static/css/main.ee169e70.chunk.css.map",
+    "static/js/2.d9eb3301.chunk.js.LICENSE.txt": "/react-cooking-app/static/js/2.d9eb3301.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24e9daac.js",
+    "static/js/2.d9eb3301.chunk.js",
+    "static/css/main.ee169e70.chunk.css",
+    "static/js/main.d3f0758b.chunk.js"
+  ]
+}
