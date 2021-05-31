@@ -14,6 +14,8 @@ function App() {
     (recipe) => recipe.id === selectedRecipeId
   );
 
+  const [searchRecipe, setSearchRecipe] = useState();
+
   useEffect(() => {
     const recipeJSON = localStorage.getItem(LOCAL_STORAGE_KEY);
     if (recipeJSON !== null) setRecipes(JSON.parse(recipeJSON));
@@ -28,7 +30,22 @@ function App() {
     handleRecipeDelete: handleRecipeDelete,
     handleRecipeSelect: handleRecipeSelect,
     handleRecipeChange: handleRecipeChange,
+    handleSearchRecipe: handleSearchRecipe,
+    searchRecipe: searchRecipe,
   };
+
+  function handleSearchRecipe(searchTarget) {
+    if (!searchTarget || searchTarget === undefined) {
+      setSearchRecipe(undefined);
+      return;
+    }
+    const storeRecipe = [...recipes];
+    var searchResult = storeRecipe.filter((result) =>
+      result.name.toLowerCase().includes(searchTarget.toLowerCase())
+    );
+
+    setSearchRecipe(searchResult);
+  }
 
   function handleRecipeChange(id, recipe) {
     const newRecipes = [...recipes];
