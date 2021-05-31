@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-cooking-app/static/css/main.06a68ff9.chunk.css",
-    "main.js": "/react-cooking-app/static/js/main.accb4e39.chunk.js",
-    "main.js.map": "/react-cooking-app/static/js/main.accb4e39.chunk.js.map",
+    "main.js": "/react-cooking-app/static/js/main.a495c613.chunk.js",
+    "main.js.map": "/react-cooking-app/static/js/main.a495c613.chunk.js.map",
     "runtime-main.js": "/react-cooking-app/static/js/runtime-main.24e9daac.js",
     "runtime-main.js.map": "/react-cooking-app/static/js/runtime-main.24e9daac.js.map",
     "static/js/2.d9eb3301.chunk.js": "/react-cooking-app/static/js/2.d9eb3301.chunk.js",
     "static/js/2.d9eb3301.chunk.js.map": "/react-cooking-app/static/js/2.d9eb3301.chunk.js.map",
     "index.html": "/react-cooking-app/index.html",
-    "precache-manifest.42fdd4df82ecf3362ddfb92fd86b4817.js": "/react-cooking-app/precache-manifest.42fdd4df82ecf3362ddfb92fd86b4817.js",
+    "precache-manifest.ff150b45c973227a8ebae22d3cad3384.js": "/react-cooking-app/precache-manifest.ff150b45c973227a8ebae22d3cad3384.js",
     "service-worker.js": "/react-cooking-app/service-worker.js",
     "static/css/main.06a68ff9.chunk.css.map": "/react-cooking-app/static/css/main.06a68ff9.chunk.css.map",
     "static/js/2.d9eb3301.chunk.js.LICENSE.txt": "/react-cooking-app/static/js/2.d9eb3301.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.24e9daac.js",
     "static/js/2.d9eb3301.chunk.js",
     "static/css/main.06a68ff9.chunk.css",
-    "static/js/main.accb4e39.chunk.js"
+    "static/js/main.a495c613.chunk.js"
   ]
 }
