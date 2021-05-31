@@ -89,7 +89,7 @@ function App() {
 const sampleRecipes = [
   {
     id: 1,
-    name: "Plain Chiken",
+    name: "Plain Chicken",
     servings: 3,
     cookTime: "1:45",
     instructions:
